@@ -9,13 +9,9 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
-# Object-oriented programming
+# Crypto Trading Platform on C++
 
-Have you ever wondered how map overlays for Google Maps are created?  In the project you will build your own interactive visualization of a large dataset tagged by geospatial information.  Both powerful and challenging, data visualization is one of the hot topics of modern computer science - as well as something that influences our world every day!
-
-To create this project, you’ll be working with a package called Unfolding Maps, which is a library for interactive maps and geovisualizations.  It was developed by Till Nagel and the team at the University of Applied Sciences Potsdam along with other contributors and we are grateful that they developed such a cool package that we (and you) can build.
-
-The project is separated into several parts, and you will be able to achieve project milestones. At the end of the course, you’ll have the opportunity to showcase your creation and see what your peers have built too.
+Trading is a primary economic concept that involves buying and selling goods and services, along with compensation paid by a buyer to a seller. Trading applications in C++ can be a good example of understanding the basic concepts of C++. Also, It can act as a mini-projects for beginners, which can help them to enhance the concepts of C++ and also can build up their resume in the initial stage.
 
 </header>
 
@@ -28,7 +24,7 @@ The project is separated into several parts, and you will be able to achieve pro
   TBD-step-1-notes.
 -->
 
-## Learning outcomes:
+## Parts of the project:
 <!--
 _Welcome to "TBD-course-name"! :wave:_
 
@@ -38,24 +34,28 @@ TBD-step-1-information
 
 ### :keyboard: Activity: TBD-step-1-name
 -->
-1. Build an interactive graphical program in Java.
-2. Design classes to make use of object-oriented programming paradigms.
-3. Explain inheritance and polymorphism and how each concept is applied in the creation of a Java GUI.
-4. Explain how event handling works in Java, and write event handlers to create an interactive program.
-5. Write and apply searching and sorting algorithms to manage large data sets.
-6. Find and fix errors (bugs) in code.
-7. Develop and use test cases to ensure correctness of a program.
+1. Use C++ to build a crypto trading platform I: User input.
+2. Use C++ to build a crypto trading platform II: Data.
+3. Use C++ to build a crypto trading platform III: Functions.
+4. Use C++ to build a crypto trading platform IV: Objects.
+5. Use C++ to build a crypto trading platform V: Final system.
 
-## Acknowledgements:
-1. We  are extremely grateful to Till Nagel and the team at the University of  Applied Sciences Potsdam and all other contributors to Unfolding Maps, a  library for interactive maps and geovisualizations:
-   http://unfoldingmaps.org/
-2. As part of this package, the SQLite  library (version 3.7.2) is included.  We gratefully acknowledge  xerial.org for creating this Java library:
-   https://bitbucket.org/xerial/sqlite-jdbc/
+## Problem Statement:
+1. Get account Information.
+2. Deposit Money.
+3. Withdraw Money.
+4. Buy Cryptocoins.
+5. Sell Cryptocoins.
+6. Check Transactions.
 
-## Images:
-<p align="center"><img align="center" src="https://github.com/akakiev/long-term-project-map-java/blob/main/pr1.jpg" height="300" width="400" /></p>
-<p align="center"><img align="center" src="https://github.com/akakiev/long-term-project-map-java/blob/main/pr2.jpg" height="300" width="400" /></p>
-<p align="center"><img align="center" src="https://github.com/akakiev/long-term-project-map-java/blob/main/pr3.jpg" height="300" width="400" /></p>
+## Operations to be Performed:
+1. Balance of user.
+2. Profit Loss checker.
+3. Bitcoins and Dogecoin.
+4. Choice.
+5. Withdraw amount.
+6. Predict.
+7. Total equity.
 <footer>
 
 <!--
